@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuiltInTagHelpersDemos", "BuiltInTagHelpersDemos\BuiltInTagHelpersDemos.csproj", "{29518D27-1160-45EA-B416-BF90F51A86DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29518D27-1160-45EA-B416-BF90F51A86DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29518D27-1160-45EA-B416-BF90F51A86DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29518D27-1160-45EA-B416-BF90F51A86DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29518D27-1160-45EA-B416-BF90F51A86DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46966B8C-8CD6-491B-808B-FC09E92EE251}
+	EndGlobalSection
+EndGlobal
